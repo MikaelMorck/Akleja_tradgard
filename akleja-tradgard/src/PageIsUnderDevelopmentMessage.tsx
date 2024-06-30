@@ -4,7 +4,7 @@ function Message() {
     return (
         <div className="container">
             <article>
-            <img src="../public/akleja-logo2.png" alt="Logo" className="logo" />
+            <img src="../akleja-logo2.png" alt="Logo" className="logo" />
                 <header>
                     <h1>
                         Hemsidan är under uppbyggnad!
